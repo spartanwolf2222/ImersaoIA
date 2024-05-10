@@ -8,9 +8,9 @@ no projeto da aula 5 foi feito um sistema para a busca de documentos usando dmbe
 
 tudo isso foi possível graças aos instruturores e Intrutoras:
 
-Fabrício Carraro
-Paulo Silveira
-Ana Raquel
+Fabrício Carraro,
+Paulo Silveira,
+Ana Raquel,
 Luciano Martins
 
 #Alura #Google #ImersaoIA
